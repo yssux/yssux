@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @yssux
-- 👀 I’m interested in `python` automating but is open to all aspects of sfw engenieering
+- 👀 I’m interested in automation and scripting but is open to all aspects of sfw engenieering
 - 🌱 I’m currently learning `python` and Godot
 - 📫 How to reach me : yeddafry@gmail.com
 - 😄 Pronouns: he/him
