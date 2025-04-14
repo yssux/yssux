@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning `python` and Godot, looking forward to c# or lua
 - 📫 How to reach me : yeddafry@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: When i see an auto door, I make it seem like I open it with my brain, and WebDev gives me nightmares (I'm looking at u, JS !)
+- ⚡ Fun fact: When i see an auto door, I make it seem like I open it with my brain, and WebDev gives me nightmares...
 
 <!---
 yssux/yssux is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
